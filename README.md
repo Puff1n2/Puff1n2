@@ -1,6 +1,6 @@
   - 👋 Hi, I’m Puffin2
 - 👀 I’m interested in chemistry, math and bioinformatic 
-- 🌱  I’m currently learning math and Python
+- 🌱  I’m currently learning math and python
 - 📫 How to reach me Anonim
 
 <!---
